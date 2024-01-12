@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **JavaScript , React , Web**
 
-- 📫 How to reach me **kavehsoleimanii1477@gmail.com**
+- 📫 How to reach me **kavehsoleimani1477@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
